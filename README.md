@@ -24,7 +24,6 @@ You can use my template as you wish.
 
 ### Built With
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 * [PHP](https://www.php.net/)
 * [Google Auth Apis](https://github.com/googleapis/google-auth-library-php)
 
