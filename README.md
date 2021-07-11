@@ -18,7 +18,7 @@
 
 ## About The Project
 
-This is a small and easy project that I made to make me easier make php webapp with google authentication
+This is a small and easy project that I made to make me easier creating php webapp with google authentication
 <br />
 You can use my template as you wish.
 
