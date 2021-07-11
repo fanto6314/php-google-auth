@@ -10,7 +10,7 @@
     A php google authentication page project
     <br />
     <br />
-    <a href="http://dev.anto6314.tech/dev/google-auth/">View Demo</a>
+    <a href="https://dev.anto6314.tech/google-auth">View Demo</a>
     ·
     <a href="https://github.com/fanto6314/php-google-auth/issues">Report Problems</a>
   </p>
