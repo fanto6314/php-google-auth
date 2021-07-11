@@ -1,7 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fanto6314/php-google-auth">
-    <img src="https://dev.anto6314.tech/images/google.png" alt="Logo" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/600px-Google_%22G%22_Logo.svg.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">php-google-auth</h3>
