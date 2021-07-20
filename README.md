@@ -4,7 +4,6 @@
     <a href="https://www.codefactor.io/repository/github/fanto6314/php-google-auth/overview/master"><img src="https://www.codefactor.io/repository/github/fanto6314/php-google-auth/badge/master" alt="CodeFactor" /></a>
   </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/fanto6314/php-google-auth">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Google_%22G%22_Logo.svg/600px-Google_%22G%22_Logo.svg.png" alt="Logo" width="80" height="80">
