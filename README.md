@@ -1,6 +1,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/fanto6314/php-google-auth">
+    <a href="github/fanto6314/php-google-auth"><img src="https://img.shields.io/badge/Version-V2.1.6-green?style=flat" alt="Version" /></a>
     <a href="https://www.codefactor.io/repository/github/fanto6314/php-google-auth/overview/master"><img src="https://www.codefactor.io/repository/github/fanto6314/php-google-auth/badge/master" alt="CodeFactor" /></a>
   </a>
 </p>
